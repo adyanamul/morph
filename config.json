@@ -1,0 +1,10 @@
+{
+    "WAKTU_PENGIRIMAN": 1,
+    "WAKTU_PENGULANGAN": 2,
+    "MAKS_PENGULANGAN": 10,
+    "JUMLAH_TRANSAKSI_PER_AKUN": 100000,
+    "BATAS_GAS": 21000,
+    "GAS_PRICE": 316800000,
+    "URL_RPC": "https://rpc-holesky.morphl2.io",
+    "ID_RANTAI": 2810
+}
